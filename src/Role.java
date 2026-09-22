@@ -1,0 +1,3 @@
+public enum Role {
+    DUELIST, CONTROLLER, INITIATOR, SENTINEL, IGL, FLEX
+}
